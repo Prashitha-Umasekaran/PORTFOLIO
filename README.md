@@ -13,9 +13,10 @@ I am a Business Analytics student with a background in Cyber Security & Digital 
 My interests lie in:
 
 - Business Analytics & Data Visualization
-- KPI & Executive Dashboard ReportingRisk Analytics & Compliance-oriented Insights
+- KPI & Executive Dashboard Reporting
+- Risk Analytics & Compliance-oriented Insights
 - Business Intelligence & Operational Analytics
-- Governance Risk & Compliance (GRC) Awareness
+- Governance, Risk & Compliance (GRC) Awareness
 - Trend Analysis & Decision Support Reporting
 
 I enjoy building dashboards and analytics projects that help organizations interpret operational and risk-related data for better decision-making.
