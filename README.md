@@ -1,88 +1,110 @@
 # PrashithaU
 
-MBA Business Analytics Student | Risk Analytics Enthusiast | Business Intelligence & Governance Reporting
+### Business Analytics | Business Intelligence | Risk Analytics | Cybersecurity
 
-Pursuing MBA in Business Analytics at National Institute of Technical Teachers Training and Research
-Interested in Business Analytics, Risk Analytics, Governance Reporting, and Business Intelligence
-Passionate about transforming data into actionable business insights through dashboards, KPI reporting, and analytical storytelling
+MBA Business Analytics Candidate | BSc Computer Science | PG Diploma in Cybersecurity & Digital Forensics
 
-About Me
+I am interested in transforming data into actionable business insights through data analysis, dashboard development, KPI reporting, and risk-focused decision support.
 
-I am a Business Analytics student with a background in Cyber Security & Digital Forensics, combining analytical thinking with risk-awareness and governance-focused reporting.
+My background combines computer science, cybersecurity, and business analytics, allowing me to approach business challenges with both analytical and risk-aware thinking.
 
-My interests lie in:
+## About Me
+
+I am pursuing an MBA in Business Analytics at the National Institute of Technical Teachers Training and Research (NITTTR), with an academic background in Computer Science and Cybersecurity & Digital Forensics.
+
+I am particularly interested in applying analytics to understand business performance, identify operational trends, assess organisational risks, and support data-driven decisions.
+
+My areas of interest include:
 
 - Business Analytics & Data Visualization
+- Business Intelligence & Reporting
 - KPI & Executive Dashboard Reporting
-- Risk Analytics & Compliance-oriented Insights
-- Business Intelligence & Operational Analytics
-- Governance, Risk & Compliance (GRC) Awareness
-- Trend Analysis & Decision Support Reporting
+- Risk Analytics & Risk Assessment
+- Governance, Risk & Compliance (GRC)
+- Operational & Performance Analytics
+- Trend Analysis & Decision Support
 
-I enjoy building dashboards and analytics projects that help organizations interpret operational and risk-related data for better decision-making.
+## Skills & Tools
 
-Skills & Tools
-- Business Analytics & Reporting
-- Business Intelligence
-- KPI Reporting
-- Dashboard Development
-- Data Visualization
-- Trend Analysis
-- Executive Reporting
+### Business Analysis & Reporting
+- Business Analysis
+- KPI & MIS Reporting
+- Operational Performance Analysis
 - Stakeholder Reporting
-- MIS Reporting
 - Data-driven Decision Making
+- Business Reporting
 
-Analytics Tools
+### Data Analytics
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Trend Analysis
+- Data Visualization
+- Dashboard Development
+- Analytical Reporting
+
+### Analytics Tools
+- Microsoft Excel
 - Power BI
 - Tableau
-- Microsoft Excel
-- SQL
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
+- SQL / MySQL
+- Python (Basic)
 - JASP
 
-Risk & Governance Awareness
+### Risk & Governance
+- Cybersecurity Risk Assessment
 - Risk Analytics
+- Governance, Risk & Compliance (GRC) Awareness
 - Compliance Reporting
-- Governance Risk & Compliance (GRC)
-- GDPR Awareness
-- DPDP Awareness
-- Risk Visualization
+- GDPR & DPDP Awareness
 - Operational Risk Awareness
+- Risk Visualization
 
-Security & Technical Exposure
+### Security & Technical Exposure
 - Splunk
 - Wazuh
 - Kali Linux
 - Cisco Packet Tracer
-- Python (Basic)
+- Digital Forensics
 
-Featured Projects
+## Featured Projects
 
-📌 Cyber Risk Analysis Dashboard
-Tools: Power BI, Wazuh SIEM
-Analysed security alert logs to identify incident trends and risk patterns
-Developed interactive dashboards with severity distribution, risk heatmaps, and alert analytics
-Converted technical security findings into business-oriented risk insights and executive reporting
+### 1. Cyber Risk Analysis Dashboard
+**Tools:** Power BI, Wazuh SIEM
 
-📌 Sales Performance Dashboard
-Tools: Tableau, Excel
-Analysed sales performance trends across regions and product lines
-Built interactive dashboards for KPI monitoring and decision support
-Identified operational insights and reporting patterns through visualization
+- Analysed security alert logs to explore incident trends and risk patterns.
+- Developed dashboard visualisations covering alert severity and risk indicators.
+- Presented technical security information through business-oriented reporting.
 
-📌 AI-Assisted Cybersecurity Governance Dashboard
-Tools: Power BI, Risk Visualization Concepts
-Designed a governance-oriented reporting dashboard for compliance and risk visibility
-Focused on executive-level reporting and business-oriented security intelligence
+### 2. Sales Performance Dashboard
+**Tools:** Tableau, Microsoft Excel
 
-📌 Credit Risk / Delinquency Prediction Analytics
-Tools: Machine Learning, Data Analytics
-Developed a predictive analytics solution for identifying delinquency patterns and credit risk indicators
-Applied analytics concepts for business risk interpretation and reporting support
+- Analysed sales performance across regions and product categories.
+- Developed interactive dashboards for KPI monitoring.
+- Explored performance trends to support business reporting and decision-making.
 
-Certifications
+### 3. AI-Assisted Cybersecurity Governance Dashboard
+**Tools:** Power BI, Risk Visualization Concepts
+
+- Designed a governance-oriented reporting dashboard concept.
+- Focused on improving visibility into cybersecurity risks and compliance-related information.
+- Explored executive-level reporting for risk-informed decisions.
+
+### 4. Credit Risk & Delinquency Prediction
+**Tools:** Python, Pandas, Scikit-learn
+
+- Explored borrower-related factors associated with credit risk.
+- Applied machine learning techniques to loan delinquency prediction.
+- Examined how predictive insights can support financial risk assessment.
+
+### 5. Enterprise Ransomware Risk Analysis
+**Focus:** Cybersecurity Risk Assessment
+
+- Examined ransomware scenarios and their potential organisational impact.
+- Identified cybersecurity risks and control gaps.
+- Explored mitigation strategies, including MFA, network segmentation, and employee awareness.
+
+## Certifications
+
 - AI Business Analyst — NASSCOM Skill India Digital Hub
 - Data Analytics Job Simulation — Deloitte (Forage)
 - GenAI Powered Data Analytics Job Simulation — Forage
@@ -91,27 +113,33 @@ Certifications
 - Python Essentials — Cisco Networking Academy
 - Advent of Cyber — TryHackMe
 
-Currently Learning
+## Currently Learning
+
 - Advanced Power BI Reporting
 - SQL for Business Analytics
-- Governance, Risk & Compliance (GRC) Concepts
+- Business Analysis & Requirements
+- Governance, Risk & Compliance
 - Business-focused Risk Analytics
 - Dashboard Storytelling & Executive Reporting
 
-Career Interests
-I am actively exploring opportunities in:
-- Business Analytics
-- Data Analytics
-- Business Intelligence
-- Risk Analytics
-- Compliance Analytics
-- Governance Reporting
-- Operational Analytics
--Fintech Analytics
+## Career Interests
 
-Connect With Me
-- LinkedIn: https://linkedin.com/in/prashitha-u-415a47232
-- GitHub: https://github.com/Prashitha04-csstudent/PrashithaU
-- Email: prashitha040604@gmail.com
+I am interested in opportunities across:
 
-“Transforming data into business insights with a risk-aware analytical perspective.”
+- Business Analyst
+- Data Analyst
+- Business Intelligence Analyst
+- Risk Analyst
+- Compliance Analyst
+- Operational Analyst
+- Fintech Analytics
+
+## Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/prashitha-u-415a47232/
+- **GitHub:** https://github.com/Prashitha-Umasekaran
+- **Email:** prashitha040604@gmail.com
+
+---
+
+*Transforming data into business insights with a risk-aware analytical perspective.*
